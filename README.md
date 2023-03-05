@@ -6,3 +6,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about javascript,golang
 - 📫 How to reach me: tangqihangzhang@163.com
 - ⚡ Fun fact: reading
+
+I am hoping to find a job using golang
