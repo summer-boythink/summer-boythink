@@ -7,4 +7,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: tangqihangzhang@163.com
 - ⚡ Fun fact: reading
 
-I am hoping to find a job using golang
+I am looking for a job using golang
